@@ -1,0 +1,14 @@
+body{
+
+            background-color: rgb(201, 219, 201);
+            
+
+}
+.box1{
+    width: 500px
+    hieght: 120px
+    border: 2px solid black;
+    padding: 8px;
+    margin: 10px;
+
+}
